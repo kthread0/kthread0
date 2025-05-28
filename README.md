@@ -4,7 +4,7 @@
 - 🎓 Student passionate about cybersecurity and low-level programming
 - 🐧 Linux & BSD enthusiast
 - 🔒 Security researcher in training
-- 🌐 [kthreads.dev](https://kthreads.dev)
+- 🌐 [kthread.dev](https://kthread.dev)
 
 ## Current Work
 - 🔑 Building **genpasswd** - secure password generation tools
@@ -15,4 +15,4 @@
 ```
 
 ## Connect
-- Website: [kthreads.dev](https://kthreads.dev)
+- Website: [kthread.dev](https://kthread.dev)
